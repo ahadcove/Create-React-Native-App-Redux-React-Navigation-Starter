@@ -3,10 +3,10 @@
   "description": "Get started with Create React Native App Redux and Router React-Navigation",  
   "author": "Bilal Abdullah",
   "keywords": ["create", "react", "native", "app", "redux", "router", "navigation"],
-  "homepage": "https://github.com/AhadCove/Create-React-App-Redux-SASS-Boilerplate",
+  "homepage": "https://github.com/AhadCove/Create-React-Native-App-Redux-React-Navigation-Starter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AhadCove/Create-React-App-Redux-SASS-Boilerplate"
+    "url": "https://github.com/AhadCove/Create-React-Native-App-Redux-React-Navigation-Starter"
   },
   "version": "0.1.0",
   "private": true,
