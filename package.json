@@ -1,0 +1,39 @@
+{
+  "name": "CreateReactNativeReduxRouterNavigationStarter",
+  "description": "Get started with Create React Native App Redux and Router React-Navigation",  
+  "author": "Bilal Abdullah",
+  "keywords": ["create", "react", "native", "app", "redux", "router", "navigation"],
+  "homepage": "https://github.com/AhadCove/Create-React-App-Redux-SASS-Boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhadCove/Create-React-App-Redux-SASS-Boilerplate"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.2.1",
+    "jest-expo": "~20.0.0",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^20.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.47.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  }
+}
